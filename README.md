@@ -25,9 +25,20 @@ This Sudoku solver project uses python and the backtracking algorithm to find a 
 	- To confirm that value press the ENTER key on that box. 
 	- To delete the inserted number in a particular box, select it and click DEL on keyboard.
 	- Finally, if you want to solve the Sudoku board automatically press SPACE, sit back and watch the algorithm run.
+	
+<img src="https://github.com/utkarsh-yadav1231/Sudoku-Solver/blob/master/Screenshots/GUI_Sudoku.PNG" alt="SS 1"/>
+
 
 ## (2) For Text based version :-  
   - Run Sudoku-Text-Solver.py 
+ 
+ 
+ <img src="https://github.com/utkarsh-yadav1231/Sudoku-Solver/blob/master/Screenshots/Unsolved_Text-Solver.PNG"/>
+ 
+ 
+  <img src="https://github.com/utkarsh-yadav1231/Sudoku-Solver/blob/master/Screenshots/Solved_Text-Solver.PNG"/>
+  
+  
 		
 #  About Backtracking   
 
